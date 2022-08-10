@@ -811,7 +811,7 @@ legend {
 }
 
 .s009 {
-  min-height: 100vh;
+  min-height: 60vh;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: center;
@@ -820,6 +820,22 @@ legend {
       align-items: center;
   background: #d9eff5;
   padding: 15px;
+  font-family: 'Lato', sans-serif;
+}
+
+.s010 {
+  #min-height: 100vh;
+  #display: -ms-flexbox;
+  display: block;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  #background: #d3d3d3;
+  padding: 15px;
+  margin: 40 auto;
+ # height: 40%;
+  width: 75%;
   font-family: 'Lato', sans-serif;
 }
 
@@ -852,20 +868,23 @@ img{
   border-style: none;
 }
 
-.card{
+.fieldcard{ 
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
   position: relative;
-  margin-top:-30%;
+  #margin-top:-30%;
   border: 0;
-  background: #fff;
-  display: block;
-  width: 65%;
+  background-color: #f2f2f2;
+  #display: inline;
+  width: 80%;
   padding: 20px 15px 10px 50px;
   #padding: 10px;
   font-size: 16px;
-  color: #666;
+  #color: #666;
   border-radius: 3px;
   #height: 70px;
-  color: #555;
+  #color: #555;
   font-family: 'Lato', sans-serif;
 }
 .login {
@@ -902,7 +921,7 @@ img{
 }
 
 .fillin {
-  min-height: 100vh;
+  min-height: 40vh;
   #min-height: 330px;
   #width: 500px;
   display: -ms-flexbox;
@@ -934,6 +953,19 @@ img{
   margin: 0 auto;
   padding: 20px;
   margin-top: 50px;
+  font-family: 'Lato', sans-serif;
+}
+
+.savebar{
+  height: 40px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  padding: 15px;
+  margin: 10px;
   font-family: 'Lato', sans-serif;
 }
 
