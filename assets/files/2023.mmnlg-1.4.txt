@@ -1,0 +1,21 @@
+@inproceedings{voloshina-etal-2023-language,
+    title = "Are Language-and-Vision Transformers Sensitive to Discourse? A Case Study of {V}i{LBERT}",
+    author = "Voloshina, Ekaterina  and
+      Ilinykh, Nikolai  and
+      Dobnik, Simon",
+    editor = "Gatt, Albert  and
+      Gardent, Claire  and
+      Cripwell, Liam  and
+      Belz, Anya  and
+      Borg, Claudia  and
+      Erdem, Aykut  and
+      Erdem, Erkut",
+    booktitle = "Proceedings of the Workshop on Multimodal, Multilingual Natural Language Generation and Multilingual WebNLG Challenge (MM-NLG 2023)",
+    month = sep,
+    year = "2023",
+    address = "Prague, Czech Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.mmnlg-1.4",
+    pages = "28--38",
+    abstract = "Language-and-vision models have shown good performance in tasks such as image-caption matching and caption generation. However, it is challenging for such models to generate pragmatically correct captions, which adequately reflect what is happening in one image or several images. It is crucial to evaluate this behaviour to understand underlying reasons behind it. Here we explore to what extent contextual language-and-vision models are sensitive to different discourse, both textual and visual. In particular, we employ one of the multi-modal transformers (ViLBERT) and test if it can match descriptions and images, differentiating them from distractors of different degree of similarity that are sampled from different visual and textual contexts. We place our evaluation in the multi-sentence and multi-image setup, where images and sentences are expected to form a single narrative structure. We show that the model can distinguish different situations but it is not sensitive to differences within one narrative structure. We also show that performance depends on the task itself, for example, what modality remains unchanged in non-matching pairs or how similar non-matching pairs are to original pairs.",
+}
