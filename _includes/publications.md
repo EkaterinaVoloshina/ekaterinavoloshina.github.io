@@ -5,7 +5,7 @@
 
 <div class="publications">
 
-For the full list of my publications, see <a href="https://scholar.google.com/citations?user=jQLSDHwAAAAJ&hl=en">Google Scholar</a>
+For all my publications, see <a href="https://scholar.google.com/citations?user=jQLSDHwAAAAJ&hl=en">Google Scholar</a> and <a href="full_publications">list of publications</a>
 
 <ol class="bibliography">
 
